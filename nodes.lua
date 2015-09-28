@@ -517,7 +517,7 @@ minetest.register_node("firedamp:lamp_cyan", {
 })
 
 minetest.register_node("firedamp:lamp_magenta", {
-	description = "Magneta Lamp",
+	description = "Magenta Lamp",
 	drawtype = "nodebox",
 	tiles = {"light_magenta.png"},
 	inventory_image = {"light_magenta.png"},
