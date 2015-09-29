@@ -760,11 +760,11 @@ minetest.register_node("firedamp:neon_yellow", {
 })
 
 --slab
-minetest.register_node("firedamp:slap_light_white", {
-	description = "White Slap Light",
+minetest.register_node("firedamp:slab_light_white", {
+	description = "White Slab Light",
 	drawtype = "nodebox",
 	tiles = {"light_white.png"},
-	inventory_image = "slap_white_inv.png",
+	inventory_image = "slab_white_inv.png",
 	paramtype = "light",
 	paramtype2 = "wallmounted",
 	sunlight_propagates = true,
@@ -787,11 +787,11 @@ minetest.register_node("firedamp:slap_light_white", {
 	}
 })
 
-minetest.register_node("firedamp:slap_light_red", {
-	description = "Red Slap Light",
+minetest.register_node("firedamp:slab_light_red", {
+	description = "Red Slab Light",
 	drawtype = "nodebox",
 	tiles = {"light_red.png"},
-	inventory_image = "slap_red_inv.png",
+	inventory_image = "slab_red_inv.png",
 	paramtype = "light",
 	paramtype2 = "wallmounted",
 	sunlight_propagates = true,
@@ -814,11 +814,11 @@ minetest.register_node("firedamp:slap_light_red", {
 	}
 })
 
-minetest.register_node("firedamp:slap_light_green", {
-	description = "Green Slap Light",
+minetest.register_node("firedamp:slab_light_green", {
+	description = "Green Slab Light",
 	drawtype = "nodebox",
 	tiles = {"light_green.png"},
-	inventory_image = "slap_green_inv.png",
+	inventory_image = "slab_green_inv.png",
 	paramtype = "light",
 	paramtype2 = "wallmounted",
 	sunlight_propagates = true,
@@ -841,11 +841,11 @@ minetest.register_node("firedamp:slap_light_green", {
 	}
 })
 
-minetest.register_node("firedamp:slap_light_blue", {
-	description = "Blue Slap Light",
+minetest.register_node("firedamp:slab_light_blue", {
+	description = "Blue Slab Light",
 	drawtype = "nodebox",
 	tiles = {"light_blue.png"},
-	inventory_image = "slap_bleu_inv.png",
+	inventory_image = "slab_bleu_inv.png",
 	paramtype = "light",
 	paramtype2 = "wallmounted",
 	sunlight_propagates = true,
@@ -868,11 +868,11 @@ minetest.register_node("firedamp:slap_light_blue", {
 	}
 })
 
-minetest.register_node("firedamp:slap_light_cyan", {
-	description = "Cyan Slap Light",
+minetest.register_node("firedamp:slab_light_cyan", {
+	description = "Cyan Slab Light",
 	drawtype = "nodebox",
 	tiles = {"light_cyan.png"},
-	inventory_image = "slap_cyan_inv.png",
+	inventory_image = "slab_cyan_inv.png",
 	paramtype = "light",
 	paramtype2 = "wallmounted",
 	sunlight_propagates = true,
@@ -895,11 +895,11 @@ minetest.register_node("firedamp:slap_light_cyan", {
 	}
 })
 
-minetest.register_node("firedamp:slap_light_magenta", {
-	description = "Magenta Slap Light",
+minetest.register_node("firedamp:slab_light_magenta", {
+	description = "Magenta Slab Light",
 	drawtype = "nodebox",
 	tiles = {"light_magenta.png"},
-	inventory_image = "slap_magenta_inv.png",
+	inventory_image = "slab_magenta_inv.png",
 	paramtype = "light",
 	paramtype2 = "wallmounted",
 	sunlight_propagates = true,
@@ -922,11 +922,11 @@ minetest.register_node("firedamp:slap_light_magenta", {
 	}
 })
 
-minetest.register_node("firedamp:slap_light_yellow", {
-	description = "Yellow Slap Light",
+minetest.register_node("firedamp:slab_light_yellow", {
+	description = "Yellow Slab Light",
 	drawtype = "nodebox",
 	tiles = {"light_yellow.png"},
-	inventory_image = "slap_yellow_inv.png",
+	inventory_image = "slab_yellow_inv.png",
 	paramtype = "light",
 	paramtype2 = "wallmounted",
 	sunlight_propagates = true,
